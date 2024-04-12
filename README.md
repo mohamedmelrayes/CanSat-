@@ -3,7 +3,7 @@
 
 ## Overview
 
-The CanSat Project is a miniature satellite project developed during university studies. It involves the integration of various hardware components such as a BMP sensor, GPS module, Arduino microcontroller, and NRF modules to create a functional satellite system capable of collecting environmental data.
+The CanSat Project is a miniature satellite project. It involves the integration of various hardware components such as a BMP sensor, GPS module, Arduino microcontroller, and NRF modules to create a functional satellite system capable of collecting environmental data.
 
 ## Hardware Components
 
@@ -42,10 +42,6 @@ During testing, the CanSat successfully collected sensor data and transmitted it
 ## Future Work
 
 Potential future improvements or extensions to the CanSat project include adding additional sensors for more comprehensive environmental data collection and enhancing communication protocols for increased data reliability.
-
-## Acknowledgments
-
-We would like to acknowledge [Insert names/organizations/resources] for their contributions to the CanSat project.
 
 ## License
 
